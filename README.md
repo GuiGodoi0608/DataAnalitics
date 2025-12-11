@@ -7,7 +7,6 @@ The final dashboard highlights revenue trends, country performance, and the popu
 
 Dashboard Overview
 
-(Insert your dashboard screenshot here)
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
