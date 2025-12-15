@@ -10,7 +10,7 @@ Dashboard Overview
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
- Project Objective
+** Project Objective**
 
 Identify the countries with the highest gaming revenue.
 
@@ -34,7 +34,7 @@ Top_Platform	Most used platform in that year/country
 
 Data was cleaned and transformed using Python, generating the tables required for the Power BI dashboard.
 
- Generated Data Tables
+** Generated Data Tables**
 
 TopGenre.csv — Genre popularity by year
 
@@ -50,7 +50,7 @@ TwoYears.csv — Growth from 2024 to 2025
 
 FatoGaming.csv — Fact table for the entire dataset
 
- Dashboard Visuals (Power BI)
+** Dashboard Visuals (Power BI)**
  
 Two-Year Growth (2024 → 2025) — Horizontal Bar Chart
 
@@ -64,7 +64,7 @@ Most Popular Game Genre (2010–2025) — Line Chart
 
 Highlights trends in genre popularity over time.
 
- Key Insights
+** Key Insights**
 
 🇧🇷 Brazil shows one of the highest overall growth rates.
 
@@ -73,8 +73,8 @@ Highlights trends in genre popularity over time.
 RPG, FPS, and Sports remain dominant genres.
 
  Emerging markets demonstrate strong acceleration in the last few years.
-
- Next Steps
+**
+ Next Steps**
 
 Add platform trends to the Power BI dashboard.
 
